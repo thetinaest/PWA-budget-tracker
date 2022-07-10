@@ -1,5 +1,5 @@
 {
-  "name": "digital-wallet",
+  "name": "PWA-budget-tracker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thetinaest/digital-wallet"
+    "url": "git+https://github.com/thetinaest/PWA-budget-tracker"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thetinaest/digital-wallet"
+    "url": "https://github.com/thetinaest/PWA-budget-tracker"
   },
-  "homepage": "https://github.com/thetinaest/digital-wallet",
+  "homepage": "https://github.com/thetinaest/PWA-budget-tracker",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",

@@ -1,7 +1,6 @@
 {
-    "name": "Digital Wallet",
-    "short_name": "Wallet",
-    "description": "Track funds offline and online.",
+    "name": "PWA Budget Tracker",
+    "short_name": "PWA Budget Tracker",
     "icons": [
       {
         "src": "/icons/icon-72x72.png",
